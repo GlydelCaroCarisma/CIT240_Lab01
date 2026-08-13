@@ -1,0 +1,17 @@
+print("")
+print("       OPEN-SOURCE PROJECT INFO")
+print("")
+
+print("Project Name       : Python")
+print("Developer/Author   : Python Software Foundation")
+print("Programming Language: C")
+print("Open-Source License: Python Software Foundation License")
+print("Project Description: Python is a high-level, general-purpose")
+print("                     programming language known for its")
+print("                     simplicity, readability, and wide range")
+print("                     of applications.")
+
+print("\nAdditional Information")
+print("")
+print("First Released     : 1991")
+print("Latest Major Use   : Web Development, AI, Data Science")
