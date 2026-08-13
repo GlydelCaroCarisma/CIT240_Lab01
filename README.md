@@ -27,7 +27,7 @@ Python is distributed under the **Python Software Foundation License**, an open-
 
 ## Author
 
-[JEFFRY C. CASIPE]
+Glydel Caro Carisma
 
 ## Additional Information
 
